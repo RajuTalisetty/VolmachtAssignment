@@ -35,7 +35,8 @@ Bonus :
 Notes
 
 - The code should be ready to go to production on delivery
-- Dont commit your solution to this Repo or don't create any pull request to this. Please share your solution as zip.
+
+ ## Dont commit your solution to this Repo or don't create any pull request to this. Please share your solution as zip.
 
 ## Background information
 
