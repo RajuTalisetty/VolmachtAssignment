@@ -30,7 +30,7 @@ Boundaries
 - You can design the data and API models as you like (what a dream, isn't it?)
 
 Bonus :
- Create an angular app to show overview of power of attorney's of logged in customer.
+ Create an angular app to show overview of power of attorney's of logged in customer to show your frontend skills.
 
 Notes
 
